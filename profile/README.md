@@ -1,3 +1,3 @@
-# TrackWize
-- Easily track your products using **TrackWize**!🚀🔥
-- **TrackWize's** official repository.
+# EzTrack
+- Easily track your products using **EzTrack**!🚀🔥
+- **EzTrack's** official repository.
